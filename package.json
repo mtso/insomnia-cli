@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1-prerelease",
   "name": "insomnia-cli",
   "app": {
     "name": "insomnia-cli",
     "productName": "Insomnia CLI",
     "longName": "Insomnia REST Runner",
-    "version": "0.4.0",
+    "version": "0.4.1-prerelease",
     "main": "bin/insomniac.js"
   },
   "bin": {
