@@ -1,6 +1,9 @@
 {
   "version": "0.4.0",
   "name": "insomnia-cli",
+  "contributors": [
+    "mtso <~@mtso.io>"
+  ],
   "app": {
     "name": "insomnia-cli",
     "productName": "Insomnia CLI",
