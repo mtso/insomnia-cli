@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+
+# Generated
+app/main.min.js
+app/cli.min.js
+package-lock.json
