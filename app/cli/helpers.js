@@ -27,7 +27,7 @@ export const getRequestDependencyIds = request => {
       if (view === OPEN_DELIM) {
         start = i;
       } else if (view === CLOSE_DELIM) {
-        const end = i + 2;
+        const end = i + CLOSE_DELIM.length;
         tags.push(text.substring(start, end));
         start = -1;
       }
